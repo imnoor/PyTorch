@@ -250,3 +250,7 @@ Icon?
 # config.yaml
 # secrets.env
 # api_keys.txt
+
+# Data folders (add this for your project)
+data-unversioned/
+data-unversioned/**
